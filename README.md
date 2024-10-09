@@ -1,4 +1,6 @@
-[Софія Бойчук](https://github.com/lsofiabo)
+[Софія Бойчук](https://git
+hub.com/lsofiabo)
 Ihor Pohaidak
 natamrshn
 Roman Nadraha
+Любомир
